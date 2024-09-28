@@ -1,4 +1,4 @@
-# [hw1_supervised_learning.ipynb](https://github.com/igor531205/applied_machine_learning_tasks/) - Домашнее задание №1:
+# [hw1_supervised_learning.ipynb](https://colab.research.google.com/drive/1QMg-czZfB-BmcZV12VEeF8YtB4sLLqnF?usp=sharing) - Домашнее задание №1:
 * Найти датасет для классификации на kaggle.com
 * Выполнить разведочный анализ и визуализацию данных: построить распределения переменных, найти выбросы
 * Применить все описанные методы классификации, сравнить их точность (метрика accuracy)
