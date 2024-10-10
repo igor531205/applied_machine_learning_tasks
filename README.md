@@ -6,3 +6,8 @@
 * Сделать выводы
 * Полезная библиотека: https://scikit-learn.org/
 
+# [hw2_hyperparameters_and_metrics_ml.ipynb](https://github.com/igor531205/applied_machine_learning_tasks/blob/main/hw2_hyperparameters_and_metrics_ml.ipynb) - Домашнее задание №2:
+* Добавить в решение ДЗ№1 8 дополнительных метрик классификации и регрессии
+* Использовать поиск по сетке и подбор оптимальных признаков для оценки качества
+* Добиться хорошего качества классификации и регрессии на всех моделях
+
