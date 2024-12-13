@@ -18,9 +18,22 @@
 * Вывести codebook для ручной проверки
 * Определить среднюю ошибку представления на датасете, сделать вывод о качестве модели
 
+# [hw5_aggregation_of_assessments.ipynb](https://github.com/igor531205/applied_machine_learning_tasks/blob/main/hw5_aggregation_of_assessments.ipynb) - Домашнее задание №5:
+* Сгенерировать датасет асессорских оценок вида (task, worker, label)
+* Построить графики распределений
+* Запустить на датасете алгоритмы DawidSkene и MajorityVote из библиотеки crowd-kit
+* Проанализировать расхождения алгоритмов на конкретных примерах
+* Выделить самый частый кейс, в котором DawidSkene и MajorityVote будут расходиться
+
 # [hw6_torch_quickstart.ipynb](https://github.com/igor531205/applied_machine_learning_tasks/blob/main/hw6_torch_quickstart.ipynb) - Домашнее задание №6:
 * Выбрать датасет с картинками
 * Выбрать архитектуру модели из списка (https://paperswithcode.com/sota/image-classification-on-imagenet)
 * Написать и прогнать Training Loop на несколько эпох
 * Посчитать метрику accuracy 
 * Вывести несколько рандомных предсказаний и реальные лейблы
+
+# [hw7_torch_techniques.ipynb](https://github.com/igor531205/applied_machine_learning_tasks/blob/main/hw7_torch_techniques.ipynb) - Домашнее задание №7:
+* Добавить в hw6 Итеративную аугментацию
+* Итеративную разморозку слоев
+* Псевдолейблинг
+* Дистилляцию
